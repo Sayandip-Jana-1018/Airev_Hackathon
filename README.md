@@ -1,4 +1,4 @@
-Here’s a README structure you can use for *Hygieia*, the full stack end-to-end healthcare management system, including all the technologies and features you've mentioned:
+Here’s a README structure you can use for *Hygieia*, the full stack end-to-end healthcare management system, including all the technologies and features mentioned below:
 
 ---
 
